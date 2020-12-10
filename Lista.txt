@@ -1,2 +1,2 @@
-@@||players.brightcove.net^$domain=brightcove.net
+@@||players.brightcove.net^$domain=abc.es
 
